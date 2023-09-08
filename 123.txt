@@ -1,0 +1,20 @@
+ 
+-----------------------------------------------
+To: XeDXWLwGMQGPyVXnuk1DG3T2pX6p7yabNx
+Amount: 1.27349444 DASH ($33 / 12902 AMD) 
+Time: 2023-09-08 09:07:45
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/f4c0e5e1bce44d4e21d674c9861b9347d77b4030c02f81671bd1bea8ca0a2bf5
+        
+ 
+        -----------------------------------------------
+        To: XeDXWLwGMQGPyVXnuk1DG3T2pX6p7yabNx
+        Amount: 1.27349444 DASH ($33 / 12902 AMD) 
+        Time: 2023-09-08 09:33:07
+        DASH rate: $25.92 (binance)
+        Sent by @BitcoinOperator
+        -----------------------------------------------
+        Transaction: https://blockchair.com/dash/transaction/f4c0e5e1bce44d4e21d674c9861b9347d77b4030c02f81671bd1bea8ca0a2bf5
+                

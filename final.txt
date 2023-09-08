@@ -1,0 +1,300 @@
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:32
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/1
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:32
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/1
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:32
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/1
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:33
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/2
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:33
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/2
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:33
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/2
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:33
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/3
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:33
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/3
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:33
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/3
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:33
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/4
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:33
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/4
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:33
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/4
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:34
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/5
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:34
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/5
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:34
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/5
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:34
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/6
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:34
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/6
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:34
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/6
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:34
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/7
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:34
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/7
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:34
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/7
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:35
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/8
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:35
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/8
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:35
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/8
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:35
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/9
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:35
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/9
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:35
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/9
+        
+
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD)
+Time: 2023-09-08 07:01:35
+DASH rate: $25.91 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/10
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:35
+DASH rate: $25.92 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/10
+        
+ 
+-----------------------------------------------
+To: XvFSMfZRCmXGjyUH6RGkceaA6S7PAvBJ1W
+Amount: 1.15860534 DASH ($30.02 / 11738 AMD) 
+Time: 2023-09-08 07:01:35
+DASH rate: $25.90 (binance)
+Sent by @BitcoinOperator
+-----------------------------------------------
+Transaction: https://blockchair.com/dash/transaction/10
+        
